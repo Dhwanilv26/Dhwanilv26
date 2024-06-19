@@ -20,7 +20,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `React.js`, `Express.js`,`Typescript`.
 - :nerd_face: Embracing every chance to `learn something new`!.
-- :boom: You can visit [MY LINKEDIN PROFILE](www.linkedin.com/in/dhwanil-vaidya).
+- :boom: You can visit [MY LINKEDIN PROFILE](https://www.linkedin.com/in/dhwanil-vaidya/?originalSubdomain=in).
 <br>
 
 
