@@ -43,7 +43,7 @@
 
 ----
 
-<a href="https://codeforces.com/profile/Demoralizerv26">
+<a href="https://leetcode.com/u/Dhwanilv26/">
 <img src="https://leetcard.jacoblin.cool/Dhwanilv26?ext=heatmap">
 </a> 
 
