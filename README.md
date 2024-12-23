@@ -11,8 +11,8 @@
 - 💻 Experienced in MERN stack and Next.js web development.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhwanilv26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhwanilv26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhwanilv26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhwanilv26&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" />
 </p>
 
 ## <img height="24" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /> Skills
