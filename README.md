@@ -10,8 +10,7 @@
 
 - 🎓 4th-year **Computer Science** student at *Nirma University*  
 - 💻 Experienced in **MERN Stack** and **Next.js** web development  
-- ☁️ Exploring **Cloud Computing**, **Serverless Architecture**, and **Automation**  
-- 🤖 Learning how to integrate **AI into real-world web apps**  
+- 🤖 Learning how to integrate and automate **AI into real-world web apps**  
 - ⚡ Solved **2000+ DSA problems** across platforms with a **Knight (2008)** LeetCode rating  
 - 🧩 I enjoy building products that blend **engineering precision with user experience**
 
