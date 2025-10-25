@@ -63,10 +63,5 @@
 
 ---
 
-<h3 align="center">💬 "Turning ideas into impactful digital experiences."</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhwanilv26/dhwanilv26/main/assets/developer.svg" width="400" alt="Developer illustration" />
-</p>
 
 
