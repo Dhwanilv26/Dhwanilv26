@@ -49,7 +49,7 @@ I'm a final-year Computer Science student at Nirma University with a passion for
     <tr>
     <td valign="top" width="50%">
       <strong>Languages</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=go,python,js,ts,cpp,sql" alt="Languages">
     </td>
     <td valign="top" width="50%">
       <strong>Web Development</strong><br><br>
