@@ -43,7 +43,7 @@ I enjoy understanding how systems work under the hood, exploring engineering fun
 
 ### 🧰 My Tech Stack
 
-<table width="100%">
+<table width="100%" align="center">
   <tbody>
     <tr>
       <td width="50%" valign="top">
@@ -96,7 +96,6 @@ I enjoy understanding how systems work under the hood, exploring engineering fun
         <strong>Tools & Platforms</strong>
         <br/><br/>
         <img src="https://skillicons.dev/icons?i=vscode,idea,github,figma,postman" alt="Development Tools" />
-        <br/><br/>
         <img src="https://cdn.simpleicons.org/cursor/FFFFFF" height="40" alt="Cursor" />
         <img src="https://cdn.simpleicons.org/opencode/FFFFFF" height="40" alt="OpenCode" />
         <img src="https://cdn.simpleicons.org/claude/CC7857" height="40" alt="Claude Code" />
@@ -107,7 +106,7 @@ I enjoy understanding how systems work under the hood, exploring engineering fun
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img
