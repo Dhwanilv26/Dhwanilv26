@@ -108,10 +108,20 @@ I enjoy understanding how systems work under the hood, exploring engineering fun
 
 ### 📊 GitHub Analytics
 
+
+<h3 align="center">📊 Dhwanil Vaidya's GitHub Stats</h3>
+
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=Dhwanilv26&bg=0b1220&text=e2e8f0&title_color=38bdf8&icon_color=38bdf8&border_color=1e3a5f&border_radius=12"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=Dhwanilv26&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=true&bg_color=0b1220&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&border_color=1e3a5f&border_radius=12"
+    alt="All-Time Commits"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=Dhwanilv26&bg=0b1220&text=e2e8f0&title_color=38bdf8&icon_color=38bdf8&border_color=1e3a5f&border_radius=12&hide_title=true&hide=prs,issues,streak,week,trend,active_day,grade,contributions"
+    alt="GitHub Stars and Current Year Commits"
   />
 </p>
 
@@ -133,4 +143,3 @@ I enjoy understanding how systems work under the hood, exploring engineering fun
     alt="GitHub Activity - Last 30 Days"
   />
 </p>
-
